@@ -1,4 +1,4 @@
-# hu-oss-sw-2018-lab-3
-=======================
+OSS SW Lab.
+===========
 
-편집완료
+ * Lee Hyeong Chang 
