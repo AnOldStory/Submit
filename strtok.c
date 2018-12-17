@@ -1,3 +1,9 @@
+/*
+시스템프로그래밍기초(CSE2018)
+2018.12.10
+strtok 구현 
+*/
+
 #include <stdio.h>
 
 int noMatchPoint(char *,char *);
