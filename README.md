@@ -1,4 +1,1 @@
-OSS SW Lab.
-===========
-
- * Lee Hyeong Chang 
+Lee Hyeong Chang 
